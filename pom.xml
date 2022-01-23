@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.hui</groupId>
+    <artifactId>hui-clouds</artifactId>
+    <version>0.1-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <description>
+        i want to thank my wife for her selflessness. i love her
+    </description>
+
+    <developers>
+        <developer>
+            <id>hydra-noah</id>
+            <name>郭鹏</name>
+            <email>goupenn@126.com</email>
+            <roles>
+                <role>Java Development Engineer</role>
+            </roles>
+            <timezone>2022-01-23 22:06</timezone>
+        </developer>
+    </developers>
+
+
+    <!-- 统一管理 jar版本  -->
+    <properties>
+        <api.hui.version>0.1.0</api.hui.version>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <maven.compiler.source>8</maven.compiler.source>
+        <maven.compiler.target>8</maven.compiler.target>
+    </properties>
+
+</project>
